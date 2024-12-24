@@ -32,3 +32,10 @@ This is a Minesweeper-inspired game where players place a bet, click tiles to re
 ```bash
 git clone https://github.com/yourusername/mines-game.git
 cd mines-game
+## Demo
+
+To try out the game, click on the button below to open the demo in a new tab:
+
+[Play Demo](https://replit.com/@MananJain31/mines?v=1)
+
+[play video](https://www.loom.com/share/1d13d4002f674442b81b89cb19e9a906)
